@@ -9,7 +9,7 @@ FaceCheck is an innovative application designed to streamline the student attend
 
 ## Technologies Used
 
-- Frontend: React.js
+- Frontend: NextJs
 - Backend: Express.js
 - Node.js version: v18.16.1
 
